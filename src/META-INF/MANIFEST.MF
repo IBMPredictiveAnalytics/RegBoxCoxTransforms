@@ -1,0 +1,12 @@
+Name: RegBoxCoxTransforms
+Dialog-Specs: RegBoxCoxTransforms.spd
+Summary: Box-Cox Transformations
+Description: Dialog to check for a necessary transformation of the dep
+ endent in a regression analysis (Box-Cox Transformations)
+Author: Dr. Hans Grüner, Freie Universität Berlin (http://gruener.user
+ page.fu-berlin.de)
+Version: 3.0.1
+Product-Version: 18
+Date: 13.03.2012
+Categories: box-cox, dialog, graphics, plots, regression, spss, statis
+ tics, transformations
