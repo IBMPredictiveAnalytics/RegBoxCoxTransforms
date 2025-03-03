@@ -1,4 +1,5 @@
 Name: RegBoxCoxTransforms
+Display-Name: Box-Cox Transformations
 Dialog-Specs: RegBoxCoxTransforms.spd
 Summary: Box-Cox Transformations
 Description: Dialog to check for a necessary transformation of the dep
